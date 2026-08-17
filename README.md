@@ -1,5 +1,9 @@
 # Sistema de Biblioteca
 
+Autor: Vitoria Farias
+
+Licença: MIT
+
 Sistema desktop desenvolvido em Typescript para biblioteca.
 
 ## Objetivo
